@@ -1,5 +1,7 @@
 # [Advent of Code 2023](https://adventofcode.com/2023)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/marvv90)
+
 ## My Solutions of AoC-23 in JS
 
 ###  Solved
@@ -27,5 +29,8 @@
 - [ ] Day 24
 
 
-### Need Help ?
-Run the Code with `node filename.js``
+> Need Help ?
+
+Run the Code with `node filename.js`
+
+Don't forget to fill the Input-Files with your Content
